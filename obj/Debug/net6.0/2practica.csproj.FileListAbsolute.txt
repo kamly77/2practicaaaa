@@ -1,0 +1,15 @@
+/Users/davidgadzimetov/Projects/2practica/2practica/obj/Debug/net6.0/2practica.csproj.AssemblyReference.cache
+/Users/davidgadzimetov/Projects/2practica/2practica/obj/Debug/net6.0/2practica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidgadzimetov/Projects/2practica/2practica/obj/Debug/net6.0/2practica.AssemblyInfoInputs.cache
+/Users/davidgadzimetov/Projects/2practica/2practica/obj/Debug/net6.0/2practica.AssemblyInfo.cs
+/Users/davidgadzimetov/Projects/2practica/2practica/obj/Debug/net6.0/2practica.csproj.CoreCompileInputs.cache
+/Users/davidgadzimetov/Projects/2practica/2practica/bin/Debug/net6.0/2practica
+/Users/davidgadzimetov/Projects/2practica/2practica/bin/Debug/net6.0/2practica.deps.json
+/Users/davidgadzimetov/Projects/2practica/2practica/bin/Debug/net6.0/2practica.runtimeconfig.json
+/Users/davidgadzimetov/Projects/2practica/2practica/bin/Debug/net6.0/2practica.dll
+/Users/davidgadzimetov/Projects/2practica/2practica/bin/Debug/net6.0/2practica.pdb
+/Users/davidgadzimetov/Projects/2practica/2practica/obj/Debug/net6.0/2practica.dll
+/Users/davidgadzimetov/Projects/2practica/2practica/obj/Debug/net6.0/refint/2practica.dll
+/Users/davidgadzimetov/Projects/2practica/2practica/obj/Debug/net6.0/2practica.pdb
+/Users/davidgadzimetov/Projects/2practica/2practica/obj/Debug/net6.0/2practica.genruntimeconfig.cache
+/Users/davidgadzimetov/Projects/2practica/2practica/obj/Debug/net6.0/ref/2practica.dll
