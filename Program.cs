@@ -1,4 +1,6 @@
-﻿//Random rand = new Random();
+﻿
+//Задача 1
+//Random rand = new Random();
 //int MyNum;
 //int secret = rand.Next(1, 101);
 //int count = 1;
@@ -27,66 +29,67 @@
 //Console.ReadKey();
 
 
+//Задача2
+//using System;
 
-
-//public static void multiplytable()
-
-//{
-//    Console.WriteLine("█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-//    Console.WriteLine("█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-//    Console.WriteLine("█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-//    Console.WriteLine("█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-//    Console.WriteLine("█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-//    Console.WriteLine("█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-//    Console.WriteLine("█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-//    Console.WriteLine("█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-//    Console.WriteLine("█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-//    Console.WriteLine("█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-//    Console.WriteLine("█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-//    Console.WriteLine("█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-//    Console.WriteLine("█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-//    Console.WriteLine("█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-//    Console.WriteLine("█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-//    Console.WriteLine("█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-//    Console.WriteLine("█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-//    Console.WriteLine("█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-//    Console.WriteLine("█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-//    Console.WriteLine("█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█");
-//    Console.WriteLine("█████████████████████████████████████████████████████████████████████████████████████");
-//    int cursorheight = 25;
-//    int cursorwidth = 20;
-//    Console.SetCursorPosition(cursorwidth, cursorheight);
-//    int[,] multiplytable = new int[10, 10];
-//    for (int i = 1; i <= multiplytable.GetLength(0); i++)
+//namespace fifteenthMay
+//{ 
+//    class Program
 //    {
-//        Console.SetCursorPosition(cursorwidth, cursorheight);
-//        for (int a = 1; a <= multiplytable.GetLength(1); a++)
+//        public static void Main(string[] args)
 //        {
-//            multiplytable[i - 1, a - 1] = i * a;
 
-//            Console.Write($"{multiplytable[i - 1, a - 1],3} ");
-//            Thread.Sleep(20);
+
+//            int[,] arr = new int[10, 10];
+//            int[] arr1 = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+//            Console.Write("x/y |\t");
+//            for (int i = 0; i < arr1.Length; ++i)
+//            {
+//                Console.Write(arr1[i] + "\t");
+//            }
+//            Console.WriteLine();
+//            Console.WriteLine();
+//            Console.Write("---------------------------------------------------------------------");
+//            Console.WriteLine();
+
+//            for (int i = 1; i < arr.GetLength(0); ++i)
+//            {
+//                for (int j = 1; j < arr.GetLength(1); ++j)
+//                {
+
+//                    int sum = i * j;
+//                    if (i == j)
+//                    {
+//                        arr[i, j] = sum;
+//                        Console.Write(arr[i, j] + "\t");
+//                    }
+//                    else if (i > j)
+//                    {
+//                        arr[i, j] = sum;
+//                        Console.Write(arr[i, j] + "\t");
+//                    }
+//                    else if (i < j)
+//                    {
+//                        arr[i, j] = sum;
+//                        Console.Write(arr[i, j] + "\t");
+//                    }
+
+//                }
+//                Console.WriteLine("\n\n");
+//            }
+
+
+//            Console.Write("Press any key to continue . . . ");
+//            Console.ReadKey(true);
 //        }
-//        cursorheight += 2;
-//        Console.WriteLine();
+//    }
 
-//    }
-//    string logoauthor = "press any button to exit to menu...";
-//    for (int i = 0; i < 36; i++)
-//    {
-//        Console.Write(logoauthor[i]);
-//        Thread.Sleep(30);
-//    }
-//    Thread.Sleep(30);
-//    Console.ReadKey();
-//    Console.Clear();
-//    faststart();
-//    Programs();
 //}
 
 
 //using System;
 
+//Задача 3
 //public class Test
 //{
 //    public static void Main()
